@@ -12,8 +12,8 @@ A visual tool built with Python to demonstrate different cache replacement polic
 
 **Team Members:**
 * Mena Mohsen
-* Seif eldeen
-* Ayman Youssef Fawzy
+* Seif eldeen Ayman 
+* Youssef Fawzy
 * Mostafa Magdy
 * Ahmed Sherif
 * Nour eldeen Sayed
